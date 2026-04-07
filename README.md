@@ -1,7 +1,7 @@
 # RAG Knowledge Base Agent
 
 An AI agent that answers questions by searching a vector database instead 
-of relying on a hardcoded system prompt. No hallucination — Claude only 
+of relying on a hardcoded system prompt. No hallucination. Claude only 
 answers from real document content.
 
 ## How It Works
